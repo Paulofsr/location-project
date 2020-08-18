@@ -1,0 +1,8 @@
+[submodule "ms-user"]
+	path = ms-user
+	url = https://github.com/Paulofsr/ms-user
+	branch = master
+[submodule "ms-location"]
+	path = ms-location
+	url = https://github.com/Paulofsr/ms-location
+	branch = master
