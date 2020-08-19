@@ -6,3 +6,7 @@
 	path = ms-location
 	url = https://github.com/Paulofsr/ms-location
 	branch = master
+[submodule "ms-api-location"]
+	path = ms-api-location
+	url = https://github.com/Paulofsr/ms-api-location
+	branch = master
