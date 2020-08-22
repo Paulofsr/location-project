@@ -2,3 +2,7 @@
 	path = ms-api-location
 	url = https://github.com/Paulofsr/ms-api-location
 	branch = master
+[submodule "ms-tcp-location"]
+	path = ms-tcp-location
+	url = https://github.com/Paulofsr/ms-tcp-location
+	branch = master
